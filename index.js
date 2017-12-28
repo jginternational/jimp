@@ -1,6 +1,6 @@
 var FS = require("fs");
 var PNG = require("pngjs").PNG;
-var JPEG = require("jpeg-js");
+var JPEG = require("jpeg-js-jg");
 var BMP = require("bmp-js");
 var GIF = require("./omggif.js");
 var MIME = require("mime");
